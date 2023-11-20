@@ -1,11 +1,17 @@
-| Key point                    |             DeepFi              |            Acc & Eff            |                         |     |     |
-| ---------------------------- |:-------------------------------:|:-------------------------------:|:-----------------------:|:---:|:---:|
-| indoor                       | <input type="checkbox" checked> |     <input type="checkbox">     | <input type="checkbox"> |     |     |
-| localisation                 | <input type="checkbox" checked> |     <input type="checkbox">     | <input type="checkbox"> |     |     |
-| deep learning                | <input type="checkbox" checked> |     <input type="checkbox">     | <input type="checkbox"> |     |     |
-| CSI                          | <input type="checkbox" checked> | <input type="checkbox" checked> | <input type="checkbox"> |     |     |
-| fingerprinting               |     <input type="checkbox">     | <input type="checkbox" checked> |                         |     |     |
-| WAPs                         |     <input type="checkbox">     | <input type="checkbox" checked> |                         |     |     |
-| CFO                          |     <input type="checkbox">     | <input type="checkbox" checked> |                         |     |     |
-| WIFI                         |     <input type="checkbox">     | <input type="checkbox" checked> |                         |     |     |
-| FP dependant on HW specifics |     <input type="checkbox">     | <input type="checkbox" checked>                                |                         |     |     |
+| Key point                    |             DeepFi              |            Acc & Eff            |                         |                          |             Enc UAV             |               UAV               |     |
+| ---------------------------- |:-------------------------------:|:-------------------------------:|:-----------------------:|:------------------------:|:-------------------------------:|:-------------------------------:|:---:|
+| Indoor                       | <input type="checkbox" checked> |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox" > |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| Localisation                 | <input type="checkbox" checked> |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| Deep Learning                | <input type="checkbox" checked> |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| CSI                          | <input type="checkbox" checked> | <input type="checkbox" checked> | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| Fingerprinting               |     <input type="checkbox">     | <input type="checkbox" checked> | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| WAPs                         |     <input type="checkbox">     | <input type="checkbox" checked> | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| CFO                          |     <input type="checkbox">     | <input type="checkbox" checked> | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| WIFI                         |     <input type="checkbox">     | <input type="checkbox" checked> | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| FP dependant on HW specifics |     <input type="checkbox">     | <input type="checkbox" checked> | <input type="checkbox"> | <input type="checkbox">  |     <input type="checkbox">     |     <input type="checkbox">     |     |
+| UAV                          |     <input type="checkbox">     |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  | <input type="checkbox" checked> | <input type="checkbox" checked> |     |
+| Safeguarding unauth access   |     <input type="checkbox">     |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  | <input type="checkbox" checked> | <input type="checkbox" checked> |     |
+| Encrypted channel            |     <input type="checkbox">     |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  | <input type="checkbox" checked> |     <input type="checkbox">     |     |
+| Outdoor                      |     <input type="checkbox">     |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  | <input type="checkbox" checked> | <input type="checkbox" checked> |     |
+| Extra HW                     |     <input type="checkbox">     |     <input type="checkbox">     | <input type="checkbox"> | <input type="checkbox">  | <input type="checkbox" checked> |     <input type="checkbox">     |     |
+|                              |                                 |                                 |                         |                          |                                 |                                 |     |
