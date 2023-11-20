@@ -14,6 +14,31 @@
 [link]()
 [[Neural-Network-Assisted UE Localization Using radio-chanel fingerprints in lte networks.pdf]]
 
+# Physical layer authentication in wireless communication networks: A survey
+[link](https://ieeexplore.ieee.org/abstract/document/9200889)
+[[Physical_layer_authentication_in_wireless_communication_networks_a_survey.pdf]]
+
+# Channel-based physical layer authentication
+[link](https://ieeexplore.ieee.org/abstract/document/7037452)
+[[Channel-based_Physical_Layer.pdf]]
+
+# BANA: body area network authentication exploiting channel characteristics
+[link](https://dl.acm.org/doi/abs/10.1145/2185448.2185454)
+[[BANA.pdf]]
+
+# Security Authentication System Using Encrypted Channel on UAV Network
+[link](https://ieeexplore.ieee.org/abstract/document/7926571)
+
+# Authentication Methods for UAV Communication
+[link](https://ieeexplore.ieee.org/abstract/document/8969732)
+
+# 
+[link]()
+
+# 
+[link]()
+
+
 
 
 
