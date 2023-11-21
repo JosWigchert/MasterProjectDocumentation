@@ -24,6 +24,11 @@ Using probabilistic and deterministic algorithms for indoor fingerprinting using
   <strong>Already Read:</strong> Completed this paper
 </div>
 
+> The channel quality between a transmitter and a receiver is termed as Channel State Information (CSI) and is extracted from PHY layer
+
+[[csi-mimo_efficient_wifi_fingerprinting.pdf#page=2&selection=12,22,13,31|csi-mimo_efficient_wifi_fingerprinting, page 2]]
+
+
 # Neural-Network-Assisted UE Localization Using Radio-Channel Fingerprints in LTE Networks
 [link](https://ieeexplore.ieee.org/abstract/document/7938617)
 [[Neural-Network-Assisted UE Localization Using radio-chanel fingerprints in lte networks.pdf]]
