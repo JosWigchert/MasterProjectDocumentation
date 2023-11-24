@@ -29,6 +29,42 @@ Using probabilistic and deterministic algorithms for indoor fingerprinting using
 [[csi-mimo_efficient_wifi_fingerprinting.pdf#page=2&selection=12,22,13,31|csi-mimo_efficient_wifi_fingerprinting, page 2]]
 
 
+# GNSS Spoofing and Detection
+[link](https://ieeexplore.ieee.org/abstract/document/7445815)
+
+<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Note:</strong> Still need to read this paper
+</div>
+
+# GPS Spoofing Detection via Dual-Receiver Correlation of Military Signals
+[link](https://ieeexplore.ieee.org/abstract/document/6621814)
+
+<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Note:</strong> Still need to read this paper
+</div>
+
+# Spoofing detection, classification and cancelation (SDCC) receiver architecture for a moving GNSS receiver
+[link](https://link.springer.com/article/10.1007/s10291-014-0407-3)
+
+<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Note:</strong> Still need to read this paper
+</div>
+
+# GNSS spoofing detection in handheld receivers based on signal spatial correlation
+[link](https://ieeexplore.ieee.org/document/6236917)
+
+<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Note:</strong> Still need to read this paper
+</div>
+
+[link](https://link.springer.com/article/10.1007/s10291-014-0407-3)
+[[Neural-Network-Assisted UE Localization Using radio-chanel fingerprints in lte networks.pdf]]
+
+<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Note:</strong> Still need to read this paper
+</div>
+
+
 # Neural-Network-Assisted UE Localization Using Radio-Channel Fingerprints in LTE Networks
 [link](https://ieeexplore.ieee.org/abstract/document/7938617)
 [[Neural-Network-Assisted UE Localization Using radio-chanel fingerprints in lte networks.pdf]]
@@ -84,10 +120,6 @@ Compare methods to securely have communication with and between UAVs. more crypt
 <div style="background-color: #aaddff; color: #333; padding: 10px; border: 1px solid #3399ff; border-radius: 5px; margin-bottom: 15px;">
   <strong>Currently Reading:</strong> Reading this paper
 </div>
-
-
-# 
-[link]()
 
 
 
