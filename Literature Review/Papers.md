@@ -31,6 +31,7 @@ Using probabilistic and deterministic algorithms for indoor fingerprinting using
 
 # GNSS Spoofing and Detection
 [link](https://ieeexplore.ieee.org/abstract/document/7445815)
+[[GNSS Spoofing and Detection.pdf]]
 
 <div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
   <strong>Note:</strong> Still need to read this paper
@@ -38,32 +39,24 @@ Using probabilistic and deterministic algorithms for indoor fingerprinting using
 
 # GPS Spoofing Detection via Dual-Receiver Correlation of Military Signals
 [link](https://ieeexplore.ieee.org/abstract/document/6621814)
-
+[[GNSS spoofing detection in handheld receivers based on signal spatial correlation.pdf]]
 <div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
   <strong>Note:</strong> Still need to read this paper
 </div>
 
 # Spoofing detection, classification and cancelation (SDCC) receiver architecture for a moving GNSS receiver
 [link](https://link.springer.com/article/10.1007/s10291-014-0407-3)
-
+[[Spoofing detection, classification and cancelation (SDCC) receiver architecture for a moving GNSS receiver.pdf]]
 <div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
   <strong>Note:</strong> Still need to read this paper
 </div>
 
 # GNSS spoofing detection in handheld receivers based on signal spatial correlation
 [link](https://ieeexplore.ieee.org/document/6236917)
-
+[[GNSS spoofing detection in handheld receivers based on signal spatial correlation.pdf]]
 <div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
   <strong>Note:</strong> Still need to read this paper
 </div>
-
-[link](https://link.springer.com/article/10.1007/s10291-014-0407-3)
-[[Neural-Network-Assisted UE Localization Using radio-chanel fingerprints in lte networks.pdf]]
-
-<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
-  <strong>Note:</strong> Still need to read this paper
-</div>
-
 
 # Neural-Network-Assisted UE Localization Using Radio-Channel Fingerprints in LTE Networks
 [link](https://ieeexplore.ieee.org/abstract/document/7938617)
