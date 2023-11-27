@@ -1,3 +1,10 @@
+# FadePrint: Satellite Spoofing Detection via Fading Fingerprinting
+[[fadeprint.pdf]]
+
+<div style="background-color: #c8e6c9; color: #333; padding: 10px; border: 1px solid #4caf50; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Already Read:</strong> Completed this paper
+</div>
+
 # DeepFi: Deep learning for indoor fingerprinting using channel state information
 [link](https://ieeexplore.ieee.org/abstract/document/7127718)
 [[DeepFi.pdf]]
@@ -39,10 +46,12 @@ Using probabilistic and deterministic algorithms for indoor fingerprinting using
 
 # GPS Spoofing Detection via Dual-Receiver Correlation of Military Signals
 [link](https://ieeexplore.ieee.org/abstract/document/6621814)
-[[GNSS spoofing detection in handheld receivers based on signal spatial correlation.pdf]]
-<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
-  <strong>Note:</strong> Still need to read this paper
+[[GPS Spoofing Detection via Dual-Receiver Correlation of Military Signals.pdf]]
+The paper discusses the detection of GPS spoofing attacks using correlation of military signals. It presents a mathematical model of the L1 C/A and P(Y) signals and explains the codeless spoofing detection method. The paper also provides test results of the spoofing detection method. However, it does not provide any strategies for dealing with a detected spoofing attack. The paper mentions that the presence of the military M-code is not expected to have a noticeable impact on the P(Y)-code-based method. Overall, the paper focuses on the development and analysis of a spoofing detection technique using correlation of military signals.
+<div style="background-color: #c8e6c9; color: #333; padding: 10px; border: 1px solid #4caf50; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Already Read:</strong> Completed this paper
 </div>
+
 
 # Spoofing detection, classification and cancelation (SDCC) receiver architecture for a moving GNSS receiver
 [link](https://link.springer.com/article/10.1007/s10291-014-0407-3)
@@ -54,8 +63,9 @@ Using probabilistic and deterministic algorithms for indoor fingerprinting using
 # GNSS spoofing detection in handheld receivers based on signal spatial correlation
 [link](https://ieeexplore.ieee.org/document/6236917)
 [[GNSS spoofing detection in handheld receivers based on signal spatial correlation.pdf]]
-<div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
-  <strong>Note:</strong> Still need to read this paper
+When an adversary is spoofing multiple satellites to try to set the position of a victim, the victim can detect the spoofing of multiple satellites by using a single moving antenna and checking the spatial correlation of the multiple spoofed satellites (if more are spoofed from the same position by one adversary it will correlate highly)
+<div style="background-color: #c8e6c9; color: #333; padding: 10px; border: 1px solid #4caf50; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Already Read:</strong> Completed this paper
 </div>
 
 # Neural-Network-Assisted UE Localization Using Radio-Channel Fingerprints in LTE Networks
@@ -109,7 +119,7 @@ Compare methods to securely have communication with and between UAVs. more crypt
 # Spotr: GPS Spoofing Detection via Device Fingerprinting
 [link](https://dl.acm.org/doi/pdf/10.1145/3395351.3399353)
 [[spotr.pdf]]
-
+The paper introduces Spotr, a method for detecting GPS spoofing attacks using device fingerprinting. The authors propose using physical-layer identification (PLI) to determine the authenticity of GPS signals based on their similarity to signals known to have originated from GPS satellites. They extract strong features from the outputs of GPS receivers and generate templates, or fingerprints, for genuine satellite signals. The method is able to detect various types of spoofing attacks on different dimensions of GPS receivers, such as time and position. The authors demonstrate the effectiveness of Spotr through experimental validation and analysis of different attack scenarios. The method is shown to be robust against environmental factors and provides fast and cost-effective spoofing detection. 
 <div style="background-color: #aaddff; color: #333; padding: 10px; border: 1px solid #3399ff; border-radius: 5px; margin-bottom: 15px;">
   <strong>Currently Reading:</strong> Reading this paper
 </div>

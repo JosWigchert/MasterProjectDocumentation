@@ -22,6 +22,9 @@ Channel Frequency Response (CFR) or CSI has 30 values which can be used for dete
 
 [[spotr.pdf#page=10&selection=762,8,763,10|spotr, page 10]]
 
+> png s cn b dvdd n  n cgs, ny GP sgn gns, nd cv bsd sps nd spscd cv bsd sps [6]
+
+[[GNSS spoofing detection in handheld receivers based on signal spatial correlation.pdf#page=1&selection=1588,0,1684,0|GNSS spoofing detection in handheld receivers based on signal spatial correlation, page 1]]
 
 # Keywords
 
