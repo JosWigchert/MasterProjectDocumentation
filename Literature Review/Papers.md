@@ -71,7 +71,7 @@ When an adversary is spoofing multiple satellites to try to set the position of 
 # Neural-Network-Assisted UE Localization Using Radio-Channel Fingerprints in LTE Networks
 [link](https://ieeexplore.ieee.org/abstract/document/7938617)
 [[Neural-Network-Assisted UE Localization Using radio-chanel fingerprints in lte networks.pdf]]
-
+This document proposes a novel fingerprint-based localization technique for positioning user equipment (UEs) in LTE networks. The technique utilizes the characteristics of a radio channel, formulated as a fingerprint vector, to map to a geographical location. A feature-extraction algorithm is used to select non-redundant channel parameters calculated from LTE down-link signals. A feedforward neural network is trained with fingerprint vectors and known locations of UEs to estimate their positions. Experimental results show that the proposed technique achieves a median error distance of 6 and 75 meters in indoor and outdoor environments, respectively. This technique is particularly useful in scenarios where the Global Navigation Satellite System (GNSS) is unavailable, such as indoor environments or dense-urban areas with obstructed line-of-sight paths to GNSS satellites.
 <div style="background-color: #ffffcc; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
   <strong>Note:</strong> Still need to read this paper
 </div>
@@ -120,8 +120,8 @@ Compare methods to securely have communication with and between UAVs. more crypt
 [link](https://dl.acm.org/doi/pdf/10.1145/3395351.3399353)
 [[spotr.pdf]]
 The paper introduces Spotr, a method for detecting GPS spoofing attacks using device fingerprinting. The authors propose using physical-layer identification (PLI) to determine the authenticity of GPS signals based on their similarity to signals known to have originated from GPS satellites. They extract strong features from the outputs of GPS receivers and generate templates, or fingerprints, for genuine satellite signals. The method is able to detect various types of spoofing attacks on different dimensions of GPS receivers, such as time and position. The authors demonstrate the effectiveness of Spotr through experimental validation and analysis of different attack scenarios. The method is shown to be robust against environmental factors and provides fast and cost-effective spoofing detection. 
-<div style="background-color: #aaddff; color: #333; padding: 10px; border: 1px solid #3399ff; border-radius: 5px; margin-bottom: 15px;">
-  <strong>Currently Reading:</strong> Reading this paper
+<div style="background-color: #c8e6c9; color: #333; padding: 10px; border: 1px solid #4caf50; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Already Read:</strong> Completed this paper
 </div>
 
 

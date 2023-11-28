@@ -25,6 +25,7 @@
 
 Abbreviations:
 - **DL**: Deep Learning
+- **FFNN**: Feed Forward Neural Network
 - **CSI**: Channel State Information
 - **CFO**: Channel Frequency Offset
 - **Prob**: Probabilistic
@@ -41,13 +42,13 @@ Abbreviations:
 - **CPA**: Carrier Phase Alignment
  (CN0) and  (CLT).
 
-| Key points   | Fadeprint  |    Deepfi    | Acc& Eff |      CSI-MIMO      |   (enc) UAV   |      Spotr       | Handheld receivers |       Military Signals       |     |
-| ------------ | ---------- |:------------:|:--------:|:------------------:|:-------------:|:----------------:|:------------------:|:----------------------------:| --- |
-| Location     | I/O        |      I       |    na    |         I          |       O       |        O         |        I/O         |             I/O              |     |
-| Encryption   | N          |      N       |    N     |         N          |       Y       |        N         |         N          |             N/Y              |     |
-| Antenna      | S          |     S/M      |    S     |         M          |      NA       |        S         |         S          |              M               |     |
-| Goal         | FP         | Localisation |    FP    |         FP         | Shield-Access |        FP        |         FP         |              FP              |     |
-| Metric       | IQ samples |     CSI      | CSI/CFO  |        CSI         |      NA       | CPA / IQ samples |        SSP         |     AGC / CA code power      |     |
-| Method       | DL(FCDD)   |      DL      |   Math   |     Prob/Detr      |    Crypto     |     CN0/CLT      |                    |      cross correlation       |     |
-| Requirements |            |              |          |        Enc         |      Enc      |                  |      Movement      | Presence enc military signal |     |
-| Tags         |            |              |          | Temporal Stability |      UAV      |                  |                    |                              |     |
+| Key points   | Fadeprint  |    Deepfi    | Acc& Eff |      CSI-MIMO      |   (enc) UAV   |      Spotr       | Handheld receivers (moving GNSS) |       Military Signals       |          NN LTE          |
+| ------------ | ---------- |:------------:|:--------:|:------------------:|:-------------:|:----------------:|:--------------------------------:|:----------------------------:|:------------------------:|
+| Location     | I/O        |      I       |    na    |         I          |       O       |        O         |               I/O                |             I/O              |           I/O            |
+| Encryption   | N          |      N       |    N     |         N          |       Y       |        N         |                N                 |             N/Y              |            N             |
+| Antenna      | S          |     S/M      |    S     |         M          |      NA       |        S         |                S                 |              M               |            S             |
+| Goal         | FP         | Localisation |    FP    |         FP         | Shield-Access |        FP        |                FP                |              FP              |    FP / Localisation     |
+| Metric       | IQ samples |     CSI      | CSI/CFO  |        CSI         |      NA       | CPA / IQ samples |               SSP                |     AGC / CA code power      | CSI (Channel parameters) |
+| Method       | DL(FCDD)   |      DL      |   Math   |     Prob/Detr      |    Crypto     |     CN0/CLT      |                                  |      cross correlation       |           FFNN           |
+| Requirements |            |              |          |        Enc         |      Enc      |                  |             Movement             | Presence enc military signal |                          |
+| Tags         |            |              |          | Temporal Stability |      UAV      |                  |                                  |                              |                          |
