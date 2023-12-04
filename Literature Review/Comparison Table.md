@@ -43,17 +43,17 @@ Abbreviations:
 - **SD** 
  (CN0) and  (CLT).
 
-| Key points   | Fadeprint  |    Deepfi    | Acc& Eff |      CSI-MIMO      |   (enc) UAV   |      Spotr       | Handheld receivers (moving GNSS) |       Military Signals       |          NN LTE          |
-| ------------ | ---------- |:------------:|:--------:|:------------------:|:-------------:|:----------------:|:--------------------------------:|:----------------------------:|:------------------------:|
-| Location     | I/O        |      I       |    na    |         I          |       O       |        O         |               I/O                |             I/O              |           I/O            |
-| Encryption   | N          |      N       |    N     |         N          |       Y       |        N         |                N                 |             N/Y              |            N             |
-| Antenna      | S          |     S/M      |    S     |         M          |      NA       |        S         |                S                 |              M               |            S             |
+| Key points   | Fadeprint  |    Deepfi    | Acc& Eff |      CSI-MIMO      |   (enc) UAV   |      Spotr       | Handheld receivers (moving GNSS) |       Military Signals       |          NN LTE          | robust |     |     |
+| ------------ |:----------:|:------------:|:--------:|:------------------:|:-------------:|:----------------:|:--------------------------------:|:----------------------------:|:------------------------:| ------ | --- | --- |
+| Location     |    I/O     |      I       |    na    |         I          |       O       |        O         |               I/O                |             I/O              |           I/O            | i/o    |     |     |
+| Encryption   |     N      |      N       |    N     |         N          |       Y       |        N         |                N                 |             N/Y              |            N             | n      |     |     |
+| Antenna      |     S      |     S/M      |    S     |         M          |      NA       |        S         |                S                 |              M               |            S             |        |     |     |
 | Goal         | FP / SD    | Localisation |    FP    |         FP         | Shield-Access |     FP / SD      |             FP / SD              |           FP / SD            |    FP / Localisation     |
-| Metric       | IQ samples |     CSI      | CSI/CFO  |        CSI         |      NA       | CPA / IQ samples |               SSP                |     AGC / CA code power      | CSI (Channel parameters) |
-| Method       | DL(FCDD)   |      DL      |   Math   |     Prob/Detr      |    Crypto     |     CN0/CLT      |                                  |      cross correlation       |           FFNN           |
-| Requirements |            |              |          |        Enc         |      Enc      |                  |             Movement             | Presence enc military signal |                          |
-| Tags         |            |              |          | Temporal Stability |      UAV      |                  |                                  |                              |                          |
-
+|              |            |              |          |                    |               |                  |                                  |                              |                          |        |     |     |
+| Metric       | IQ samples |     CSI      | CSI/CFO  |        CSI         |      NA       | CPA / IQ samples |               SSP                |     AGC / CA code power      | CSI (Channel parameters) |        |     |     |
+| Method       |  DL(FCDD)  |      DL      |   Math   |     Prob/Detr      |    Crypto     |     CN0/CLT      |                                  |      cross correlation       |           FFNN           |        |     |     |
+| Requirements |            |              |          |        Enc         |      Enc      |                  |             Movement             | Presence enc military signal |                          |        |     |     |
+| Tags         |            |              |          | Temporal Stability |      UAV      |                  |                                  |                              |                          |        |     |     |
 All have terrestrial links, not one test for aerial links
 
 
