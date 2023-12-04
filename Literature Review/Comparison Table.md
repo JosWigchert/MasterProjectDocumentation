@@ -40,6 +40,7 @@ Abbreviations:
 - **FCDD**: Fully Convolutional Data Description
 - **CPA**: Carrier Phase Alignment
 - **CPA**: Carrier Phase Alignment
+- **SD** 
  (CN0) and  (CLT).
 
 | Key points   | Fadeprint  |    Deepfi    | Acc& Eff |      CSI-MIMO      |   (enc) UAV   |      Spotr       | Handheld receivers (moving GNSS) |       Military Signals       |          NN LTE          |
@@ -47,8 +48,26 @@ Abbreviations:
 | Location     | I/O        |      I       |    na    |         I          |       O       |        O         |               I/O                |             I/O              |           I/O            |
 | Encryption   | N          |      N       |    N     |         N          |       Y       |        N         |                N                 |             N/Y              |            N             |
 | Antenna      | S          |     S/M      |    S     |         M          |      NA       |        S         |                S                 |              M               |            S             |
-| Goal         | FP         | Localisation |    FP    |         FP         | Shield-Access |        FP        |                FP                |              FP              |    FP / Localisation     |
+| Goal         | FP / SD    | Localisation |    FP    |         FP         | Shield-Access |     FP / SD      |             FP / SD              |           FP / SD            |    FP / Localisation     |
 | Metric       | IQ samples |     CSI      | CSI/CFO  |        CSI         |      NA       | CPA / IQ samples |               SSP                |     AGC / CA code power      | CSI (Channel parameters) |
 | Method       | DL(FCDD)   |      DL      |   Math   |     Prob/Detr      |    Crypto     |     CN0/CLT      |                                  |      cross correlation       |           FFNN           |
 | Requirements |            |              |          |        Enc         |      Enc      |                  |             Movement             | Presence enc military signal |                          |
 | Tags         |            |              |          | Temporal Stability |      UAV      |                  |                                  |                              |                          |
+
+All have terrestrial links, not one test for aerial links
+
+
+for location use kind of markers that full circle half circle
+later on when the direction is done antenne required or antenna not required
+goal vs objective
+objective is immediate thing goal is long term
+
+explode the requirements row to multiple rows
+approuch situation do not add anything to the table, if not hing adds anymore it is complete
+if not yes it might be comprehensive and not fully complete
+
+eg. extand fadeprint with intermediate attacks from drones
+- different altitude
+	- address this in our solution
+- spoofing detection via 
+
