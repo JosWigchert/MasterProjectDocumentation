@@ -123,7 +123,17 @@ https://ieeexplore.ieee.org/document/6851501
 # Robust Spoofing Detection for GNSS Instrumentation Using Q-Channel Signal Quality Monitoring Metric
 https://ieeexplore.ieee.org/document/9507449
 [[Robust Spoofing Detection for GNSS Instrumentation Using Q-Channel Signal Quality Monitoring Metric.pdf]]
+<div style="background-color: #c8e6c9; color: #333; padding: 10px; border: 1px solid #4caf50; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Already Read:</strong> Completed this paper
+</div>
 
 # A Multi-Antenna Scheme for Early Detection and Mitigation of Intermediate GNSS Spoofing
 https://www.mdpi.com/1424-8220/19/10/2411
-![[A Multi-Antenna Scheme for Early Detection and.pdf]]
+[[A Multi-Antenna Scheme for Early Detection and.pdf]]
+
+# GNSS spoofing detection via opportunistic IRIDIUM signals
+https://dl.acm.org/doi/abs/10.1145/3395351.3399350?casa_token=lCCzz3eK78UAAAAA:-6pELpumdni9QKAH3Sf7hWtvPT4i36Q7HPBclmR672ksUs2XbyPtqLvaz8gW0F2t1fAvrrjAlyZw
+[[iridium.pdf]]
+<div style="background-color: #c8e6c9; color: #333; padding: 10px; border: 1px solid #4caf50; border-radius: 5px; margin-bottom: 15px;">
+  <strong>Already Read:</strong> Completed this paper
+</div>
