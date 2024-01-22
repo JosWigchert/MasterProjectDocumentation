@@ -11,6 +11,8 @@ questions
 - Is IRIDIUM the same as GNSS
 	- it is satellite not gnss
 - Is the use of "We" and "our" correct
+- did you try fadeprint network with as input the float values of IQ-samples or only the picture version
+- 
 - 
 
 
