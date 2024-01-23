@@ -30,3 +30,16 @@ Extra information
 	- I ran the run.m script on my pc which did run but took a while
 	- due to python not requiring a license and being easier to implement would it be worth/preferred to try and port it to a PyTorch / tensorflow model
 		- Would also make it easier to run on multiple machines with python virtual environments 
+
+
+![[Pasted image 20240123231903.png]]
+
+
+
+
+Questions
+
+
+Action points:
+- get IQ from SDR
+- Look further into fadeprint
