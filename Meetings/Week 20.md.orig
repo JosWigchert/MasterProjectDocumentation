@@ -1,7 +1,9 @@
 
+<<<<<<< HEAD
 - Origin for different iq samples for 1622 MHz and 1650 MHz
 	-  SAW filter amplifier
 - Results from 1622 MHz 
+=======
 metrics to use
 
 balanced dataset -> accuracy
@@ -18,3 +20,4 @@ look at amount received not the bits
 
 bits are qpsk send and dqpsk demodulated
 
+>>>>>>> 74f9e12df3c683cc4d2b3fedf70db59df9ca5f6d

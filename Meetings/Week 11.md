@@ -1,4 +1,4 @@
-
+	
 
 Agenda
 - Hardware
@@ -31,6 +31,7 @@ Extra information
 	- due to python not requiring a license and being easier to implement would it be worth/preferred to try and port it to a PyTorch / tensorflow model
 		- Would also make it easier to run on multiple machines with python virtual environments 
 
+<<<<<<< HEAD
 
 ![[Pasted image 20240123231903.png]]
 
@@ -43,3 +44,8 @@ Questions
 Action points:
 - get IQ from SDR
 - Look further into fadeprint
+- Use Raspberry py to send messages with the limeSDR
+=======
+vacation mid feb
+
+>>>>>>> c4b8db1 (Add)
